@@ -12,6 +12,8 @@ En el bloque "catch", se captura "NegativeNumberException" si se lanza, y se mue
 
 # EX_02
 
+La excepción del tipo "RuntimeException" es especial porque es una excepción no verificada en Java, lo que significa que no es necesario manejarla explícitamente en el código, aunque puede causar errores en la ejecución del programa si no se maneja adecuadamente.
+
 # EX_03
 
 El programa define un array de enteros "array" con una longitud de 5 elementos.
